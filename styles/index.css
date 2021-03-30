@@ -1,0 +1,87 @@
+body {
+    background-color: #212529;
+}
+
+.ml-auto {
+    margin-left: auto !important;
+}
+
+.nav-link {
+    padding-left: 50px !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navPercy {
+    font-size: 22px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: white;
+    text-decoration: none; 
+}
+
+.navPercy:hover {
+    color: white;
+}
+
+.menor {
+    font-size: 22px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: #1DFB52;
+    text-decoration: none;
+}
+
+.menor:hover {
+    color: #1DFB52;
+}
+
+.main {
+    margin-top: 10%;
+}
+
+h2 {
+    color: white ;
+    font-size: calc(1rem + 3vw);
+    font-weight: bold;
+}
+
+h1 {
+    color: #1DFB52;
+    /*font-size: 5vw;*/
+    font-size: calc(1rem + 4vw);
+    font-weight: bold;
+}
+
+.btn-github {
+    padding-right: 40px;
+}
+
+.btn-cv {
+    background-color: #0ee541;
+    color: white;
+    font-size: calc(1rem + 0.1vw);
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: 2px solid #0ee541;
+}
+
+.btn-cv:hover {
+    background-color: #212529;
+    border: 2px solid #1DFB52;
+    color: #1DFB52;
+}
+
+/*.btn-cv:visited {
+    background-color: #212529;
+    border: 2px solid #1DFB52;
+    color: #1DFB52;
+}*/
+.active {
+    color: #1DFB52 !important;
+}
+
+.no-active {
+    color: white !important;
+}
